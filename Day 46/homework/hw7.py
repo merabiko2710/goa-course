@@ -4,6 +4,6 @@
 numy = 0
 num = 20
 while num > 0:
-    num = num  1
+    num = num + 1
     numy = numy + 1
     print(numy)

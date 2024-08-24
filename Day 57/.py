@@ -20,9 +20,8 @@ def go_shopping ():
 
 
 def name_and_hello ():
-    input("whats your name ?: ")
-    print("ok,hello")
-
+    name=input("whats your name ?: ")
+    print("ok,hello" + " " + name)
 
 
 def num_and_sum ():
@@ -38,17 +37,20 @@ def caculator ():
 
     if mathematical_operation == '+':
         print(num1 + num2)
-    if mathematical_operation == '-':
+    elif mathematical_operation == '-':
         print(num1 - num2)
-    if mathematical_operation == '*': 
+    elif mathematical_operation == '*': 
         print(num1 * num2)
-    if mathematical_operation == '/':
+    elif mathematical_operation == '/':
         print(num1 / num2) 
-    if mathematical_operation == '**':
+    elif mathematical_operation == '**':
         print(num1 ** num2)
-    if mathematical_operation == "//":
+    elif mathematical_operation == '//':
         print(num1 // num2)
     else:
         print("wrong sintax cant do mathematical_operation")
+
 caculator()
+
+
 
