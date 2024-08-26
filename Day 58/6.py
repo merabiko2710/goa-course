@@ -9,5 +9,5 @@ def time_travel():
         time=int(input("how much forward?"))
         print(age + time)
 
-    time_travel()
+time_travel()
 
