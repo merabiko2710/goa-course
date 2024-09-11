@@ -1,0 +1,16 @@
+body {
+    background-image: url(Untitled.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+ h1 {
+    font-size: 50px;
+    color: darkslategrey;
+ }
+
+ h2 {
+    font-size:50px;
+    color: rgb(34, 0, 255);
+ }
