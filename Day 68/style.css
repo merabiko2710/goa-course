@@ -1,0 +1,42 @@
+h1 {
+    font-size: 36;
+}
+
+p {
+    font-size: 18px;
+    color: azure;
+}
+
+kbd {
+    color: azure;
+}
+
+
+body {
+    background-color: black;
+}
+
+footer {
+    background-color: black;
+}
+
+#p1 {
+    color: rgb(30, 2, 144);
+}
+
+div {
+    background-color: black;
+}
+
+img {
+    font-size: 100px;
+}
+
+header {
+    background-color: rgb(4, 36, 56);
+}
+
+#p2 {
+    color: azure;
+    font: size 18px; ;
+}
