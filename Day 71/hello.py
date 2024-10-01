@@ -1,4 +1,7 @@
 # 1) შექმენით ფუნქცია რომელიც მიიღებს ადამიანის სახელს და შემდეგ დაუპრინტავს მისასალმებელ წერილს
-input = input("enter name:")
-def inputs(inputes):
+def pat():
+    name = input("enter your name: ")
+    print("hello " + name)
     
+    
+pat()
