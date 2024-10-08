@@ -5,7 +5,7 @@ def list_sum(list):
     sum_of_list = 0
     for i in range(len(list)):
         sum_of_list += list[i]
-        print(sum_of_list)
+    print(sum_of_list)
         
         
 list_sum(my_list)

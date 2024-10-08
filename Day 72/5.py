@@ -5,4 +5,4 @@ def kit(intput):
         print("even")
     else:
         print("odd")
-kit(input)
+kit(input) 
