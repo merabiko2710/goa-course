@@ -1,5 +1,5 @@
-h1 {
-    font-size: 50px;
-    color: darkgreen;
-    text-align: center;
+div {
+    background-color: blue;
+    width: 300px;
+    height: 150px;
 }
