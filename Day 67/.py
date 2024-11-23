@@ -1,3 +1,53 @@
+# სტრ რადგან ბრჭყალები აღნიშშნავს ტექსტს
+# პიტონში ცომენტარი არის #
+# რომ შევქმნატ რიცხვების დიაპაზონი
+# ვიყენებტ +
+# რეალ
+#  ინპუტი
+# ფორ
+# ფლოატ
+# მცდარი
+# while True:
+# hello world
+# 0
+# .py
+# true
+# _var_name
+# 555
+# o
+# 2 4 6 8
+# rom kodi gavameorot sanam piroba sworia
+# witeli ar davwere radgan dzalian didia
+# true false
+# 1 <= 1
+# and
+# hiper-text markup language
+# my list[2]
+# list [1,2,3,4]
+# saitis teqnikuri infos shenaxvisatvis
+# a
+# h1
+# alt
+# documentis dasataurebistvis
+# br
+# ul
+#<input type="checkbox">
+# style
+# <input type ="text">
+# href
+# daxrili teqsti
+# form
+# id
+# ol
+# select
+# navigacias linkebistvis
+# saitis mtavari nawilis Seqmna
+# <!-- asdfghj -->
+# required
+# img
+# <audio>
+# video
+# truuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuue
 
 
 
@@ -66,6 +116,11 @@
 
 
 
+
+#
+#
+#
+#
 
 
 
