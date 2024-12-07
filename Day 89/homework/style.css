@@ -12,7 +12,7 @@
   
   #btn:hover {opacity: 1}
 
-#bt2 {
+#btn:active {
     background-color: #f4821e;
     border: none;
     color: white;
