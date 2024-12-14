@@ -1,0 +1,57 @@
+ul{
+    list-style:disc;
+}
+
+
+#q{
+    list-style:circle;
+}
+
+#w{
+    list-style:armenian;
+}
+
+#r{
+    list-style:georgian;
+}
+
+#t{
+    list-style:outside;
+}
+
+#y {
+    list-style:outside;
+}
+
+#u {
+    list-style:georgian;
+}
+
+#i {
+    list-style:armenian;
+}
+
+#o {
+    list-style:circle;
+}
+
+
+#p{
+    list-style:outside;
+}
+
+#a {
+    list-style:outside;
+}
+
+#s {
+    list-style:georgian;
+}
+
+#d {
+    list-style:armenian;
+}
+
+#f {
+    list-style:circle;
+}
