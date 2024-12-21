@@ -2,7 +2,7 @@ ul{
     list-style:disc;
 }
 
-
+/* 1 dav. */
 #q{
     list-style:circle;
 }
@@ -18,7 +18,7 @@ ul{
 #t{
     list-style:outside;
 }
-
+/* 2 dav. */
 #y {
     list-style:outside;
 }
@@ -35,7 +35,7 @@ ul{
     list-style:circle;
 }
 
-
+/* 3 dav */
 #p{
     list-style:outside;
 }
