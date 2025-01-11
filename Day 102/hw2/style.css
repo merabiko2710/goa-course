@@ -1,0 +1,18 @@
+
+body{
+    display: flex;
+    align-items: right;
+    justify-content:  right;
+    height: 100vh;
+}
+
+div {
+    background-color:white ;
+    border-radius: 15px;
+    padding: 20px;
+    text-align: center;
+    width: 50%;
+    border-width: 10px black;
+    height: 100vh;
+}
+
