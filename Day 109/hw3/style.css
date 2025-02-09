@@ -1,6 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body{
-    margin:0 ;
+
     font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+
+    display: flex;
+    justify-content: space-between;
+    padding: 17px  20px;
+    background-color:rgb( 1, 130, 231);
+    color: whitesmoke;
+    
 }
 
 nav {
@@ -8,24 +24,15 @@ nav {
     justify-content: space-between;
     align-items: center;
     padding: 10px, 20px;
-    display: flex;
+    font-weight: 400;
+    font-size: 18px;
 }
 
 
-.h1{
-    font-size: 25px;
-    font-weight: bold;
-    display: flex;
-    justify-content: space-between;
-    padding: 10px  20px;
-    background-color:rgb( 1, 130, 231);
-    color: whitesmoke;
-    border-radius: 10px;
-}
+
     
 ul{
-    margin: 0;
-    padding: 0;
+
     display: flex;
     list-style: none;
 }
