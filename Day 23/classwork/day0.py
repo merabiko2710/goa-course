@@ -1,1 +1,1 @@
-FSO[NGwlkenkekkkkkforr p``]
+# ar gvconda saklaso davaleba
