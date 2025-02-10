@@ -1,11 +1,15 @@
+
+
+
 div {
     width: 200px;
     height: 300px;
     margin-right: 31.4px;
     border-color: black;
-    border-width: px;
     text-align: center;
     border-style: groove;
+    padding: 15.78px;
+    border-width: 3px;
 }
 
 .qwerty {
@@ -18,6 +22,7 @@ body {
     justify-content: center;
     align-items: center;
     font-family:    sans-serif ;
+
 }
 
 h1 {
@@ -39,9 +44,13 @@ button {
     position: relative;
     bottom: 35px;
     width: 200px;
+    padding: 5px;
+    border-style: none;
 }
 
 .qwerty  button{
     background-color: white;
     color:  rgb(225, 48, 108);
+
 }
+
