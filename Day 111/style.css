@@ -1,0 +1,47 @@
+div {
+    width: 200px;
+    height: 300px;
+    margin-right: 31.4px;
+    border-color: black;
+    border-width: px;
+    text-align: center;
+    border-style: groove;
+}
+
+.qwerty {
+    background-color: rgb(225, 48, 108);
+    color: white;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family:    sans-serif ;
+}
+
+h1 {
+    font-weight:bold;
+}
+
+img {
+    width: 78px;
+}
+
+
+button {
+    width: 95px;
+    margin-top: 25px;
+    color: #ffffff;
+    background-color:black;
+    border-radius: 30px;
+    height: 35px;
+    position: relative;
+    bottom: 35px;
+    width: 200px;
+}
+
+.qwerty  button{
+    background-color: white;
+    color:  rgb(225, 48, 108);
+}
