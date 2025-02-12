@@ -1,0 +1,57 @@
+.q {
+    color: black;
+    border: 2px dotted  blue;
+    width: 456px;
+
+}
+
+.w {
+    color: rgb(152, 94, 94);
+    border: double red;
+    width: 456;
+
+}
+
+input {
+    outline: none;
+}
+
+
+
+.e {
+    color: rgb(14, 83, 132);
+    border: dashed green;
+    width: 456;
+}
+.r {
+    color: rgb(0, 0, 0);
+    border: ridge yellow;
+    width: 456;
+}
+.t {
+    color: rgb(255, 198, 26);
+    border: dashed brown;
+    width: 456;
+}
+.y {
+    color: rgb(255, 198, 26);
+    border: dashed cyan;
+    width: 456;
+}
+.u {
+    color: rgb(255, 198, 26);
+    border: dashed purple;
+    width: 456;
+}
+.i {
+    color: rgb(255, 198, 26);
+    border: dashed black;
+    width: 456;
+}
+.o {
+    color: rgb(255, 198, 26);
+    border: dashed orange;
+    width: 456;
+}
+
+
