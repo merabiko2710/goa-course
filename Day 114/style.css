@@ -73,10 +73,16 @@ section {
 
 }
 
+button {
+    opacity: 0.30;
+    border-radius: 20px;
+    width: 100px;
+    height: 50px;
+}
 
 
 
-.qwe video{ 
+.qwe{ 
     width: 100%; 
     position: fixed;
     top: 0;
