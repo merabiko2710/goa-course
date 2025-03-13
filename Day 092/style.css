@@ -1,0 +1,12 @@
+.p{
+    list-style: circle;
+}
+.a{
+    list-style: disc;
+}
+.s{
+    list-style: square;
+}
+.p{
+    list-style: none;
+}
