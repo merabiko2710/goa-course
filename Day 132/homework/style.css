@@ -7,6 +7,21 @@ div {
     border: solid 4px;
 }
 
+.D1 {
+    display: flex;
+    flex-direction: row;
+}
+
+.D2 {
+    display: flex;
+    flex-direction: row;
+}
+
+.D3 {
+    display: flex;
+    flex-direction: row;
+}
+
 .d1 {
     background-color: rgb(136, 0, 21);
     width: 365px;
@@ -17,67 +32,53 @@ div {
     background-color: rgb(34, 177, 76);
     width: 365px;
     height: 180px;
-    position: relative;
-    top: 200px;
-    right: 160px;
 }
 
 .d3 {
     background-color: rgb(34, 84, 177);
     width: 290px;
     height: 400px;
-    position: relative;
-    right: 160px;
 }
 
 .d4 {
     background-color: rgb(238, 255, 0);
     width: 365px;
     height: 180px;
-    position: relative;
-    top: 200px;
-    right: 160px;
 }
 
 .d5 {
     background-color: rgb(255, 68, 0);
     width: 365px;
     height: 180px;
-    position: relative;
-    right: 313px;
 }
 
 .d6 {
     background-color: rgb(136, 0, 21);
     width: 290px;
     height: 400px;
-    position: relative;
-    right: 313px;
 }
 
 .d7 {
     background-color: rgb(34, 177, 76);
     width: 365px;
     height: 110px;
-    position: relative;
-    top: 130px;
-    right: 300px;
+
 }
 
 .d8 {
     background-color: rgb(238, 255, 0);
     width: 365px;
     height: 110px;  
-    position: relative;
-    top: 270px;
-    right: 460px;
+
 }
 
 .d9 {
     background-color: rgb(34, 105, 177);
     width: 365px;
     height: 110px;
-    position: relative;
-    top: 0px;
-    right: 620px;
+}
+
+.c1 , .c2 , .c3 {
+    border: white solid ;
+
 }
