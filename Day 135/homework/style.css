@@ -1,14 +1,43 @@
-.md {
+.main_div {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
+    width: 800px;
+    height: 500px;
+    gap: 20px;
     background-color: white;
-    justify-content: space-between;
-    width: 100vh;
-    height: 100vh;
+    order: solid;
+    border: solid;
 }
+
 div {
-    background-color: brown;
+    background-color: rgb(0, 0, 0);
     width: 200px;
     height: 200px;
+    text-align: center;
+}
+
+.main_div2 {
+    gap: 20px;
+    background-color: white;
+    border: solid;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    align-items: end;
+    width: 800px;
+    height: 500px;
+}
+
+.main_div3 {
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 800px;
+    height: 500px;
+    gap: 20px;
+    background-color: white;
+    border: solid;
+    display: flex;
 }
 
