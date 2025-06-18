@@ -6,6 +6,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
 }
 
 body {
@@ -14,7 +15,7 @@ body {
     align-items: center;
 }
 
-.eyes {
+.eyes div {
     border-radius: 50%;
     height: 200.3157894737px;
     width: 200.3157894737px;
@@ -24,6 +25,9 @@ body {
     margin-left: 50px;
     margin-right: 50px;
 }
+
+
+
 
 .mouth {
     position: relative;
