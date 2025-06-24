@@ -1,0 +1,66 @@
+.main {
+    height: 100vh;
+    display: flex;
+    border: solid;
+    justify-content: center;
+    align-items: center;
+}
+/* 225 */
+.mini_main1 {
+    height: 70vh;
+    width: 450px;
+    border: solid;
+}
+
+.mini_main2 {
+    display: flex;
+    flex-direction: column;
+    height: 70vh;
+    width: 450px;
+    border: solid;
+}
+
+.card1 {
+    width: 450px;
+    height: 225px;
+    border: solid;
+    background-color: aquamarine;
+}
+
+.card6 {
+    width: 450px;
+    height: 225px;
+    border: solid;
+    background-color: aquamarine;
+}
+
+.card2 {
+    width: 225px;
+    height: 230.5px;
+    border: solid;
+    background-color: aqua;
+}
+.card3 {
+    width: 225px;
+    height: 230.5px;
+    border: solid;
+    background-color: aqua;
+}
+
+.card4 {
+    width: 225px;
+    height: 230.5px;
+    border: solid;
+    background-color: aqua;
+}
+
+.card5 {
+    width: 225px;
+    height: 230.5px;
+    border: solid;
+    background-color: aqua;
+}
+
+.needed{
+    display: flex;
+}
