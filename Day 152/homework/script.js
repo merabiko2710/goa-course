@@ -42,9 +42,9 @@ else if (input2 > 35){
 
 const input3=prompt("give: ")
 
-const m3= 4612
+const mero= 4612
 
-if (m3 === input3){
+if (mero === input3){
     alert("you have won")
 }
 else{
@@ -52,16 +52,16 @@ else{
 }
 // მომხმარებელს შემოატანინე რიცხვი და შეამოწმე. თუ ემთხვევა შენს ჩაფიქრებულ რიცხვს მაშინ ალერტით გამოიტანეთ 'გამოიცანი ყოჩაღ'. თუ შემოტანილი მნიშვნელობა მეტია ჩაფიქრებულ რიცხვზე მაშინ ალერტში გამოიტანეთ 'ცოტა დიდი რიცხვი შემოგიტანია'. თუ ნაკლები შემოიტანა მაშინ 'ცოტა ნაკლები რიცხვი შემოგიტანია'.
 const input4= prompt("gimmi num: ")
-const bon= 34
-if (bon === input4){
+const me= 34
+if (me === input4){
     alert (same)
 }
 
-else if (bon > input4){
+else if (me > input4){
     alert (less)
 }
 
-else if (bon < input4){
+else if (me < input4){
     alert (more)
 }
 // გააკეთეთ ჯეირანი. მომხმარებელს შემოატანინე Player 1 და Player 2 და შესაბამისი შედეგი გამოიტანეთ ალერტით
