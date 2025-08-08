@@ -6,7 +6,7 @@ for (let po = 1;po < name; po ++){
 }
 // 1-დან 100-მდე გამოიტანეთ ყველა ლუწი რიცხვი.
 const name2 =100
-for (let pos = 1;pos < name22; pos +=3){
+for (let pos = 1;pos < name22; pos +=2){
     console.log(pos)
 }
 // 5-დან 500-მდე 10-ის გამოტოვებით გამოიტანეთ ყველა რიცხვი.
