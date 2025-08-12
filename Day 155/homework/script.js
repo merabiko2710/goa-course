@@ -31,5 +31,5 @@ for (let po = 10;po < name5; po ++){
 // 20-დან 1-მდე გამოიტანეთ ყველა რიცხვი.
 
 const name22 =1
-for (let pos = 20;pos < name22; pos ++){
+for (let pos = 20;pos >= name22; pos -=1){
     console.log(pos)}
