@@ -33,10 +33,10 @@ for(let i =0; i < 50; i +=5)
 ```
 const name5 = Number(prompt("enter num"))
 const name6 = prompt("enter text")
-for (let i = 5;i < name5; i +=10){
-    if (name5 === Number){
+for (let i = 1;i < name5; i ++){
+
         console.log(name6)
-    }
+    
 }
 
 ```
@@ -44,6 +44,7 @@ for (let i = 5;i < name5; i +=10){
 ```
 const name7 =Number( prompt ("gimi num"))
 let name8 = 0
-for(let i=0; i<name8; i++){
+for(let i=1; i<name7; i++){
     name8 += i
 }
+console.log(name8)
