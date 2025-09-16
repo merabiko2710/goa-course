@@ -27,9 +27,9 @@
 
 // alert(HelloNostalgia4(12, 12))
 
-// function HelloNostalgia5(name, eman){
-//     alert(name * eman)
-// }
+ function HelloNostalgia5(name, eman){
+     alert(name * eman)
+ }
 
 // alert(HelloNostalgia5(12, 12))
 
